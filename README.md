@@ -1,2 +1,2 @@
 # odin_recipes
-Project to practice the basics of HTML
+Project to practice the basics of HTML.
